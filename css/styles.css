@@ -1,3 +1,4 @@
+/*
 .red{
     background-color: red;
     height: 100px;
@@ -42,4 +43,31 @@
 }
 .clear-both{
     clear: both;
+}
+*/
+.logo{
+    height: 75px;
+    padding: 0px;
+}
+/*nav styles*/
+.nav-list{
+    float: right;
+    list-style-type: none;
+}
+.main-nav{
+    height: 75px;
+    background-color: gray;
+}
+.center{
+    text-align: center;
+
+}
+body{
+    display: block;
+    margin: 0;
+}
+li{
+    color: aliceblue;
+    float: left;
+    padding: 14px 16px;
 }
