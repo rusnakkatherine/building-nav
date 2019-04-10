@@ -1,0 +1,45 @@
+.red{
+    background-color: red;
+    height: 100px;
+    width: 300px;
+}
+.pink{
+    background-color: hotpink;
+    height: 100px;
+    width: 300px;
+}
+.fuschia{
+    background-color: fuchsia;
+    height: 100px;
+    width: 300px;
+}
+.purple{
+    background-color: purple;
+    height: 100px;
+    width: 300px;
+}
+.ultramarine{
+    background-color: royalblue;
+    height: 100px;
+    width: 300px;
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+    width: 300px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear-left{
+    clear: left;
+}
+.clear-right{
+    clear: right;
+}
+.clear-both{
+    clear: both;
+}
