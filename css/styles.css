@@ -71,3 +71,19 @@ li{
     float: left;
     padding: 14px 16px;
 }
+.content{
+    height: 100vh;
+}
+
+.footer{
+    background-color: rgb(209, 159, 255);
+}
+.social-media{
+    height: 50px;
+    margin-bottom: 0;
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
