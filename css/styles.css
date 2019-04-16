@@ -100,12 +100,12 @@ a{
     text-decoration: none;
 }
 .video{
-    height: 315px;
-    position: sticky;
-    top: 80vh;
+    height: 250px;
+    position: relative;
+    top: 44%;
     margin-top: 5px;
     margin-left: 4px;
-    width: 60%;
+    width: 400px;
 }
 .map{
     height: 50vh;;
@@ -115,6 +115,6 @@ a{
 }
 .audio{
     float:right;
-    position: static;
-    margin-top: 5px;
+    position: absolute;
+    top: 64vh;
 }
