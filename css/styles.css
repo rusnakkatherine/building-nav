@@ -99,3 +99,22 @@ a{
     color: white;
     text-decoration: none;
 }
+.video{
+    height: 315px;
+    position: sticky;
+    top: 80vh;
+    margin-top: 5px;
+    margin-left: 4px;
+    width: 60%;
+}
+.map{
+    height: 50vh;;
+    width: 100%;
+    position: absolute;
+    top: 12%;
+}
+.audio{
+    float:right;
+    position: static;
+    margin-top: 5px;
+}
