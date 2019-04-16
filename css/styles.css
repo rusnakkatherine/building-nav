@@ -74,11 +74,28 @@
     padding: 8px 24px;
 }
 body{
-    display: block;
+    
     margin: 0;
 }
 li{
     color: aliceblue;
     float: left;
     padding: 14px 16px;
+}
+.content{
+    height: 100vh;
+}
+
+.footer{
+    background-color: gray;
+   
+}
+.social-media{
+    height: 60px;
+    margin-bottom: 0;
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
 }
