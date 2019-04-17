@@ -146,6 +146,16 @@ a{
     background: #ccc;
     color: black;
 }
+span{
+    background-color: yellowgreen;
+}
+.family > span> span{
+    background-color: tomato;
+
+}
+.second-span ~ .first-span{
+    color: red;
+}
 @media(max-width:768px){
     .button{
         font-size: 18px;
