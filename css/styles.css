@@ -59,6 +59,9 @@
     float: right;
     list-style-type: none;
 }
+.no-list-style{
+    list-style-type: none;
+}
 .main-nav{
     height: 75px;
     background-color: gray;
@@ -93,7 +96,6 @@ li{
 .social-media{
     height: 60px;
     margin-bottom: 0;
-    list-style-type: none;
 }
 a{
     color: white;
@@ -120,4 +122,27 @@ a{
     margin: 0 auto;
     display: block;
     width: 250px;   
+}
+.margin-0-auto{
+    margin: 0 auto;
+}
+.button{
+    padding: 10px;
+    font-size: 24px;
+    color: white;
+    border-radius: 10px;
+}
+.button-success{
+    border: 1px solid gray;
+    background: green;
+    width: 150px;
+}
+.button-danger{
+    width: 250px;
+    background: red;
+    border: none;
+}
+.button-default{
+    background: #ccc;
+    color: black;
 }
