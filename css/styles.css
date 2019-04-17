@@ -50,8 +50,8 @@
     padding: 0px;
 }
 .logo:hover{
-    width:85px;
-    height: 85px;
+    width:75px;
+    height: 74px;
 }
 /*nav styles*/
 .nav-list{
@@ -103,18 +103,21 @@ a{
     height: 250px;
     position: relative;
     top: 44%;
-    margin-top: 5px;
-    margin-left: 4px;
     width: 400px;
+    margin: 0 auto;
 }
 .map{
     height: 50vh;;
-    width: 100%;
+    width: 99.7%;
     position: absolute;
     top: 12%;
+    margin: 0 auto;
 }
 .audio{
-    float:right;
+    left: 40%;
     position: absolute;
-    top: 64vh;
+    top: 64vh;  
+    margin: 0 auto;
+    display: block;
+    width: 250px;   
 }
